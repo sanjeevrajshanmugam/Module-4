@@ -170,3 +170,14 @@ print("Sum :",returnSum(myDict))
 ## Result:
    Thus,the program has been executed successfully.
 
+
+
+
+## REVIEW PAGE FOR MODULE
+
+
+
+<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/171daa07-22ee-43f8-9c50-a8538cde52d0" />
+
+   
+
